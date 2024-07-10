@@ -1,0 +1,29 @@
+.about{
+    height: 87vh;
+    padding: 10px;
+    background:lightsteelblue;
+    padding: 4% ;   
+}
+
+.about-habit{
+padding: 10% 0;
+}
+.about .about-quote-container p{
+  color: rgb(58 67 166);
+  font-size: 20px;
+  font-family: fantasy;
+}
+
+.quote-author{
+    color: rgb(92 96 178);
+    font-size: 28px ;
+    margin-left: 40%;
+    font-family: fantasy;
+}
+
+.quote-right-icon{
+    color: #f35613fa;
+    font-size: 30px;
+    /* background: red; */
+    
+}
